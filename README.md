@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data Scientist with nearly 2 years of experience. I combine strong technical expertise with a passion for problem-solving. I thrive in collaborative environments, bridging the gap between complex data and clear communication to deliver actionable insights.
+I am a Data Scientist & upcoming Data Engineer. I combine strong technical expertise with a passion for problem-solving. I thrive in collaborative environments, bridging the gap between complex data and clear communication to deliver actionable insights.
 
 Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking down complex tech concepts and sharing my knowledge with the broader developer community.
 
