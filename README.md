@@ -24,8 +24,7 @@ Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking 
 	
 	Data Science, Data Engineering, Data Visualization and Technical Writing.
 
-
 📫 How to reach me:
-	Let's connect on [LinkedIn](https://www.linkedin.com/in/lawrencemurithi/)
+	Let's connect on [LinkedIn](https://www.linkedin.com/in/lawrencemurithi/), 
 	Read my latest articles on [Dev.to](https://dev.to/lawrence_murithi)
 
