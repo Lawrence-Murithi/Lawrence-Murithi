@@ -14,7 +14,7 @@ Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking 
 
 🌱 What I'm up to:
 	
-	🔭 Currently working as a Data Scientist.
+	🔭 Currently working as a freelance Data Scientist.
 	
 	🚀 Actively upskilling and transitioning into Data Engineering.
       
