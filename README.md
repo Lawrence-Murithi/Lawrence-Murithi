@@ -5,22 +5,29 @@ I am a Data Scientist with nearly 2 years of experience. I combine strong techni
 Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking down complex tech concepts and sharing my knowledge with the broader developer community.
 
 🛠️ Tech Stack & Tools:
-      Languages: Python, SQL
+
+	Languages: Python, SQL
       
-      Data & Viz: Excel, Power BI
+   	Data & Viz: Excel, Power BI
       
-      Engineering & Cloud: Airflow, Kafka, Linux, Docker, AWS
+	Engineering & Cloud: Airflow, Kafka, Linux, Docker, AWS
 
 🌱 What I'm up to:
-      🔭 Currently working as a Data Scientist.
+	
+	🔭 Currently working as a Data Scientist.
+	
+	🚀 Actively upskilling and transitioning into Data Engineering.
       
-      🚀 Actively upskilling and transitioning into Data Engineering.
-      
-      📝 Writing technical articles and documentation.
+   	📝 Writing technical articles and documentation.
 
-💬 Ask me about: Data Science, Data Engineering, Data Visualization and Technical Writing.
+💬 Ask me about: 
+	
+	Data Science, Data Engineering, Data Visualization and Technical Writing.
+
 
 📫 How to reach me:
-Let's connect on [LinkedIn](https://www.linkedin.com/in/lawrencemurithi/)
-Read my latest articles on [Dev.to](https://dev.to/lawrence_murithi)
+
+	Let's connect on [LinkedIn](https://www.linkedin.com/in/lawrencemurithi/)
+
+	Read my latest articles on [Dev.to](https://dev.to/lawrence_murithi)
 
