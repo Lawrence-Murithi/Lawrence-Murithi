@@ -5,13 +5,19 @@ I am a Data Scientist with nearly 2 years of experience. I combine strong techni
 Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking down complex tech concepts and sharing my knowledge with the broader developer community.
 
 🛠️ Tech Stack & Tools:
+
       Languages: Python, SQL
+      
       Data & Viz: Excel, Power BI
+      
       Engineering & Cloud: Airflow, Kafka, Linux, Docker, AWS
 
 🌱 What I'm up to:
+
       🔭 Currently working as a Data Scientist.
+      
       🚀 Actively upskilling and transitioning into Data Engineering.
+      
       📝 Writing technical articles and documentation.
 
 💬 Ask me about: Data Science, Data Engineering, Data Visualization, Technical Writing, and Python.
