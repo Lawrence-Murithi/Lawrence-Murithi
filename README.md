@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I am a Data Scientist with nearly 2 years of experience. I combine strong technical expertise with a passion for problem-solving. I thrive in collaborative environments, bridging the gap between complex data and clear communication to deliver actionable insights.
 
 Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking down complex tech concepts and sharing my knowledge with the broader developer community.
@@ -20,4 +19,4 @@ Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking 
 📫 How to reach me:
 Let's connect on [LinkedIn](https://www.linkedin.com/in/lawrencemurithi/)
 Read my latest articles on [Dev.to](https://dev.to/lawrence_murithi)
--->
+
