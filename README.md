@@ -10,7 +10,7 @@ Beyond my day-to-day work, I am an avid technical writer, dedicated to breaking 
       
    	Data & Viz: Excel, Power BI
       
-	Engineering & Cloud: Airflow, Kafka, Linux, Docker, AWS
+	Engineering & Cloud: Airflow, Kafka, Linux, Docker
 
 🌱 What I'm up to:
 	
